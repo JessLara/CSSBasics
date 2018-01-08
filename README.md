@@ -1,2 +1,1 @@
-# CSSBasics
-Submitting Assignment
+# css-exercise-one
