@@ -8,6 +8,7 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
+  top: 0;
 }
 h1 {
   font-family: sans-serif;
@@ -17,8 +18,11 @@ h1 {
 /**** Element Section ****/
 
 section {
-  margin: 0 auto;
+  margin: 0px auto 0;
   width: 60%;
+  position: relative;
+  z-index: -1;
+  top: 90px;
 }
 
 .example, h3 {
