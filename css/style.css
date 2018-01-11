@@ -3,7 +3,7 @@ body {
 }
 /**** Navigation will spand the entire page ****/
 nav {
-  background-color: yellow;
+  background-color: #FFFF00;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -32,12 +32,12 @@ section {
 }
 
 .element {
-  background-color: green;
+  background-color: #008000;
   height: 100px;
   margin: 10px 0px;
   width: 100%;
 }
 
 .element.color {
-  background-color: purple;
+  background-color: #008000;
 }
